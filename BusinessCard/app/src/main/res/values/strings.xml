@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">E. Brink</string>
+    <string name="title">Web Developer</string>
+    <string name="phone">(555) 555 - 5555</string>
+    <string name="github">github.com/brinkbrink</string>
+    <string name="email">brinkbrink@gmail.com</string>
+</resources>
