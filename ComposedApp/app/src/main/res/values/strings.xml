@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Composed App</string>
+    <string name="happy_birthday_text">Happy Birthday Brink!</string>
+    <string name="signature_text">From Tigre</string>
+</resources>
