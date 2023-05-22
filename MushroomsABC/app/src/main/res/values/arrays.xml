@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="words">
+        <item>Agaricus arvensis</item>
+        <item>Agaricus augustus</item>
+        <item>Agaricus bernardii</item>
+        <item>Agaricus bisporus</item>
+        <item>Agaricus campestris</item>
+        <item>Agaricus fuscofibrillosus</item>
+        <item>Amanita phalloides</item>
+        <item>Amanita muscaria</item>
+        <item>Armillaria matsutake</item>
+        <item>Armillaria mellea</item>
+        <item>Armillaria ponderosa</item>
+        <item>Auricularia polytricha</item>
+        <item>Boletus aereus</item>
+        <item>Boletus appendiculatus</item>
+        <item>Boletus badius</item>
+        <item>Boletus barrowsii</item>
+        <item>Boletus bicolor</item>
+        <item>Boletus edulis</item>
+        <item>Boletus mirabilis</item>
+        <item>Boletus zelleri</item>
+        <item>Boletus regius</item>
+        <item>Bovista</item>
+        <item>Calvatia gigantea</item>
+        <item>Cantharellus cibarius</item>
+        <item>Cantharellus cinnabarinus</item>
+        <item>Cantharellus lateritius</item>
+        <item>Cantharellus subalbidus</item>
+        <item>Cantharellus tubaeformis</item>
+        <item>Chlorophyllum molybdites</item>
+        <item>Clitocybe fragrans</item>
+        <item>Clitocybe odora</item>
+        <item>Clitocybe nuda</item>
+        <item>Clitopilus prunulus</item>
+        <item>Coprinus comatus</item>
+        <item>Craterellus cornucopioides</item>
+        <item>Dacrymyces capitatus</item>
+        <item>Dacrymyces chrysospermus</item>
+        <item>Dacrymyces stillatus</item>
+        <item>Daedalea quercina</item>
+        <item>Daedaleopsis confragosa</item>
+        <item>Daldinia concentrica</item>
+        <item>Deconia coprophila</item>
+        <item>Echinoderma asperum</item>
+        <item>Echinoderma echinaceum</item>
+        <item>Elaphomyces granulatus</item>
+        <item>Enteridium lycoperdon</item>
+        <item>Entocybe nitida</item>
+        <item>Entoloma bloxamii</item>
+        <item>Entoloma rhodopolium</item>
+        <item>Exidia nigricans</item>
+        <item>Favolaschia calocera</item>
+        <item>Fistulina hepatica</item>
+        <item>Flammulaster erinaceellus</item>
+        <item>Flammulaster muricatus</item>
+        <item>Flammulina velutipes</item>
+        <item>Fomes fomentarius</item>
+        <item>Fomitopsis betulina</item>
+        <item>Fuligo septica</item>
+        <item>Fomitopsis betulina</item>
+        <item>Fomitopsis pinicola</item>
+        <item>Fuscoporia torulosa</item>
+        <item>Favolaschia pustulosa</item>
+        <item>Galerina hypnorum</item>
+        <item>Galerina marginat</item>
+        <item>Galerina paludosa</item>
+        <item>Galerina sphagnorum</item>
+        <item>Galerina vittiformis</item>
+        <item>Galiella rufa</item>
+        <item>Ganoderma applanatum</item>
+        <item>Ganoderma australe</item>
+        <item>Ganoderma carnosum</item>
+        <item>Ganoderma lucidum</item>
+        <item>Gyroporus cyanescens</item>
+        <item>Harrya chromapes</item>
+        <item>Hebeloma crustuliniforme</item>
+        <item>Hebeloma mesophaeum</item>
+        <item>Hebeloma radicosum</item>
+        <item>Hebeloma sinapizans</item>
+        <item>Heliocybe sulcata</item>
+        <item>Helvella acetabulum</item>
+        <item>Helvella atra</item>
+        <item>Helvella crispa</item>
+        <item>Imleria badia</item>
+        <item>Imperator rhodopurpureus</item>
+        <item>Infundibulicybe geotropa</item>
+        <item>Infundibulicybe gibba</item>
+        <item>Inocybe geophylla</item>
+        <item>Inocybe hystrix</item>
+        <item>Inocybe lacera</item>
+        <item>jackal</item>
+        <item>january</item>
+        <item>job</item>
+        <item>join</item>
+        <item>joke</item>
+        <item>journal</item>
+        <item>july</item>
+        <item>jump</item>
+        <item>june</item>
+        <item>kangaroo</item>
+        <item>keep</item>
+        <item>keyboard</item>
+        <item>kind</item>
+        <item>kingdom</item>
+        <item>knowledge</item>
+        <item>known</item>
+        <item>koala</item>
+        <item>landscape</item>
+        <item>last</item>
+        <item>late</item>
+        <item>laugh</item>
+        <item>lemon</item>
+        <item>letter</item>
+        <item>lily</item>
+        <item>link</item>
+        <item>list</item>
+        <item>local</item>
+        <item>long</item>
+        <item>madeleine</item>
+        <item>magazine</item>
+        <item>make</item>
+        <item>many</item>
+        <item>marine</item>
+        <item>maze</item>
+        <item>meditate</item>
+        <item>message</item>
+        <item>momentum</item>
+        <item>moon</item>
+        <item>more</item>
+        <item>most</item>
+        <item>mountain</item>
+        <item>music</item>
+        <item>name</item>
+        <item>need</item>
+        <item>negotiate</item>
+        <item>news</item>
+        <item>next</item>
+        <item>night</item>
+        <item>north</item>
+        <item>not</item>
+        <item>now</item>
+        <item>number</item>
+        <item>number</item>
+        <item>oak</item>
+        <item>octopus</item>
+        <item>online</item>
+        <item>only</item>
+        <item>opposite</item>
+        <item>order</item>
+        <item>other</item>
+        <item>pack</item>
+        <item>page</item>
+        <item>painting</item>
+        <item>people</item>
+        <item>pillow</item>
+        <item>pizza</item>
+        <item>podcast</item>
+        <item>polar</item>
+        <item>policy</item>
+        <item>post</item>
+        <item>presentation</item>
+        <item>price</item>
+        <item>product</item>
+        <item>public</item>
+        <item>puppy</item>
+        <item>puzzle</item>
+        <item>quality</item>
+        <item>quantity</item>
+        <item>query</item>
+        <item>quest</item>
+        <item>question</item>
+        <item>quick</item>
+        <item>quince</item>
+        <item>quite</item>
+        <item>quotation</item>
+        <item>read</item>
+        <item>real</item>
+        <item>recipe</item>
+        <item>report</item>
+        <item>research</item>
+        <item>restaurant</item>
+        <item>review</item>
+        <item>revolve</item>
+        <item>rewind</item>
+        <item>right</item>
+        <item>search</item>
+        <item>secret</item>
+        <item>see</item>
+        <item>seed</item>
+        <item>service</item>
+        <item>ship</item>
+        <item>should</item>
+        <item>site</item>
+        <item>skill</item>
+        <item>stargaze</item>
+        <item>state</item>
+        <item>style</item>
+        <item>sunrise</item>
+        <item>taxi</item>
+        <item>tidy</item>
+        <item>time</item>
+        <item>together</item>
+        <item>tourist</item>
+        <item>trailer</item>
+        <item>travel</item>
+        <item>truck</item>
+        <item>under</item>
+        <item>unicorn</item>
+        <item>uniform</item>
+        <item>unique</item>
+        <item>united</item>
+        <item>university</item>
+        <item>uplife</item>
+        <item>useful</item>
+        <item>value</item>
+        <item>various</item>
+        <item>vase</item>
+        <item>version</item>
+        <item>very</item>
+        <item>video</item>
+        <item>view</item>
+        <item>violin</item>
+        <item>vision</item>
+        <item>visit</item>
+        <item>volume</item>
+        <item>walrus</item>
+        <item>wander</item>
+        <item>well</item>
+        <item>whirlwind</item>
+        <item>winter</item>
+        <item>world</item>
+        <item>would</item>
+        <item>xanthin</item>
+        <item>xenial</item>
+        <item>xenolith</item>
+        <item>xenon</item>
+        <item>xiphoid</item>
+        <item>yacht</item>
+        <item>year</item>
+        <item>yield</item>
+        <item>yoga</item>
+        <item>yogurt</item>
+        <item>young</item>
+        <item>your</item>
+        <item>zein</item>
+        <item>zero</item>
+        <item>zigzag</item>
+        <item>zine</item>
+        <item>zone</item>
+        <item>zoo</item>
+        <item>zouk</item>
+    </string-array>
+</resources>
