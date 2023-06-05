@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pet the Cat</string>
+    <string name="tap_to_pet">Tap the cat to pet.</string>
+    <string name="tap_to_sleep">Pet the cat to sleep.</string>
+    <string name="tap_awake">Tap the cat to wake them.</string>
+    <string name="awake_cat">Awake cat</string>
+    <string name="petting_cat">Petting the cat</string>
+    <string name="asleep_cat">Sleeping cat</string>
+</resources>
