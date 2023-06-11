@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="title">Alpenfire Apples</string>
+    <string name="apple2">Apples at Alpenfire Cidery in Port Townsend</string>
+    <string name="apple3">Buckets for apple picking</string>
+    <string name="apple4">Big box of beautiful apples</string>
+    <string name="apple5">Peeking inside the big box of beautiful apples</string>
+    <string name="apple6">Apples after being tested for sugar content</string>
+    <string name="apple7">Owner of Alpenfire enjoying his cider with his apples</string>
+    <string name="apple8">Son of owner admiring a bottle of cider they have produced</string>
+    <string name="apple9">Beautiful bottles of Alpenfire cider</string>
+</resources>
